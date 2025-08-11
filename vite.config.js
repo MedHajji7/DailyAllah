@@ -7,4 +7,10 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+    optimizeDeps: {
+    exclude: ["@ffmpeg/ffmpeg", "@ffmpeg/core"],
+  },
 })
+
+
+

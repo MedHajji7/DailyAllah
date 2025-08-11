@@ -1,6 +1,6 @@
 // src/App.tsx
 import Background from "./Background";
-import HeroSearch from "./HeroSearch";
+import HeroSearch from "./Components/HeroSearch";
 import { TopNav, Footer } from "./Primitives";
 import "./index.css";
 
