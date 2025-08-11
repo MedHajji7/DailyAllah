@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: 'KFGQPC-Hafs';
+  src: url('/fonts/KFGQPC-Uthmanic-Hafs.woff2') format('woff2');
+  font-display: swap;
+}
+
+.read-hafs { font-family: 'KFGQPC-Hafs', system-ui, sans-serif; }
 :root { color-scheme: dark; }
 html, body, #root { height: 100%; background:#0f1115; }
 

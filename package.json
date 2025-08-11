@@ -12,12 +12,17 @@
   "dependencies": {
     "@ffmpeg/core": "^0.12.10",
     "@ffmpeg/ffmpeg": "^0.12.15",
+    "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.11",
     "axios": "^1.11.0",
     "html-to-image": "^1.11.13",
+    "idb-keyval": "^6.2.2",
+    "jszip": "^3.10.1",
     "lucide-react": "^0.539.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.8.0",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {

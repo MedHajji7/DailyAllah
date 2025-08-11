@@ -14,7 +14,7 @@ export default function SearchBar({ lang, setAyah }: { lang: Lang; setAyah: (a: 
   return (
     <div className="relative mb-4">
       <input
-        placeholder={`Search the Quran (${lang.toUpperCase()})…`}
+        placeholder={`Search the Quran …`}
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         onKeyDown={(e) => e.key === "Enter" && doSearch()}
