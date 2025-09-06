@@ -79,5 +79,4 @@ You are free to use, modify, and distribute this project with attribution.
 
 **Mohamed Hajji**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-hajji-dev/)  
-- 🌐 [Portfolio](https://dailyallah.netlify.app/)  
 - 📧 Contact: hajji.mohamed.dev@gmail.com
